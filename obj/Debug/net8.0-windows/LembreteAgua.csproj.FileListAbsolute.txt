@@ -1,0 +1,17 @@
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\LembreteAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\LembreteAgua.AssemblyInfoInputs.cache
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\LembreteAgua.AssemblyInfo.cs
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\LembreteAgua.csproj.CoreCompileInputs.cache
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Debug\net8.0-windows\LembreteAgua.exe
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Debug\net8.0-windows\LembreteAgua.deps.json
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Debug\net8.0-windows\LembreteAgua.runtimeconfig.json
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Debug\net8.0-windows\LembreteAgua.dll
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Debug\net8.0-windows\LembreteAgua.pdb
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\LembreteAgua.dll
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\refint\LembreteAgua.dll
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\LembreteAgua.pdb
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\LembreteAgua.genruntimeconfig.cache
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\ref\LembreteAgua.dll
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\LembreteAgua.csproj.AssemblyReference.cache
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\loamii\Documents\GitHub\LembreteAgua\obj\Debug\net8.0-windows\Lembrete.695E9432.Up2Date
