@@ -100,7 +100,7 @@ namespace LembreteAgua
             pnlTitulo.BackColor = Tema.Fundo;
 
             var logo = new PictureBox { Image = Icones.Gota(24, Tema.Azul), Location = new Point(16, 10), Size = new Size(24, 24) };
-            var titulo = Rotulo("Lembrete de Água by@ataliasloami_", 46, 8, 200, 28, Tema.Negrito, Tema.Texto);
+            var titulo = Rotulo("Lembrete de Água 1.0.0 by@ataliasloami_", 46, 8, 200, 28, Tema.Negrito, Tema.Texto);
 
             btnConfig = new BotaoFlat { Discreto = true, Cor = Tema.Card, Icone = Icones.Engrenagem(20, Tema.Texto), Size = new Size(44, 44), Location = new Point(288, 0) };
             var btnMin = new BotaoFlat { Discreto = true, Cor = Tema.Card, Icone = Icones.Minimizar(16, Tema.Texto), Size = new Size(44, 44), Location = new Point(332, 0) };
@@ -193,7 +193,7 @@ namespace LembreteAgua
             menu.Items.Add("Sair", null, (_, _) => { sair = true; Application.Exit(); });
 
             trayIcon.Icon = Icones.CriarIcone();
-            trayIcon.Text = "Lembrete de Água by@ataliasloami_";
+            trayIcon.Text = "Lembrete de Água 1.0.0 by@ataliasloami_";
             trayIcon.ContextMenuStrip = menu;
             trayIcon.Visible = true;
             trayIcon.DoubleClick += (_, _) => MostrarJanela();

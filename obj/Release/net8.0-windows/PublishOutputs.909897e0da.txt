@@ -1,0 +1,6 @@
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Release\net8.0-windows\publish\LembreteAgua.exe
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Release\net8.0-windows\publish\LembreteAgua.dll
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Release\net8.0-windows\publish\LembreteAgua.deps.json
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Release\net8.0-windows\publish\LembreteAgua.runtimeconfig.json
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Release\net8.0-windows\publish\LembreteAgua.pdb
+C:\Users\loamii\Documents\GitHub\LembreteAgua\bin\Release\net8.0-windows\publish\ReaLTaiizor.dll
